@@ -1,0 +1,1 @@
+<div id="footer" style="padding-top: 40px">&copy;Khóa Học IT</div>

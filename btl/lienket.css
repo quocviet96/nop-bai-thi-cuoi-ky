@@ -1,0 +1,62 @@
+
+    *{
+        margin:0;
+        
+        }
+  
+    #wrapper {
+        margin:auto;
+       
+        text-align:center;
+        }
+    #header {
+        height:200px;
+        background:#99CC66;
+    
+        }
+    #footer {
+        height:100px;
+        background:#339933;
+        }
+        .lienket{       
+            background-color: white;
+            color: black;
+            border: 2px solid rgb(33, 173, 68);
+            border-radius:5px;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            font-family: "Lucida Sans Unicode";
+        }
+        .lienket:hover{
+            background-color: rgb(45, 173, 33);
+            color:white;
+        }
+        .lienket:active{
+            background-color: rgb(0, 255, 42);
+            border-color: rgb(0, 255, 0);
+        
+}
+
+#menu,#footer{
+    text-align:center;
+}
+#lophoc{
+    line-height: 35px;
+}
+#gioithieu{
+    line-height: 30px;
+}
+#csvc{
+    line-height: 30px;
+}
+#lienhe{
+    line-height:30px;
+}
+    
+     
+        
+       
+  
